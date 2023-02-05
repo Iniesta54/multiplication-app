@@ -33,6 +33,7 @@ updateLocalStorage()
  }else{
     score--
   
+    updateLocalStorage()
    
  }
 })
